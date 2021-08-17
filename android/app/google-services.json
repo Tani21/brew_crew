@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609885611971",
+    "project_id": "coffeeneeded-9cf22",
+    "storage_bucket": "coffeeneeded-9cf22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609885611971:android:3bce3ee2e99d7e4c50ff76",
+        "android_client_info": {
+          "package_name": "com.example.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609885611971-ft2b7kqe3nsjq4k9m1ho8h7b8b603p3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJPwvUdAKYzMq6x2w-SshAWpbgIecPDS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609885611971-ft2b7kqe3nsjq4k9m1ho8h7b8b603p3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
